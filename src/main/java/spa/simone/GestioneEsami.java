@@ -43,4 +43,8 @@ public class GestioneEsami {
 		return esamiClinici;
 	}
 
+	public static void main(String[] args) {
+		
+	}
+
 }
